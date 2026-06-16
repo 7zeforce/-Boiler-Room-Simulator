@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6057732719083932652
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6057732719083932563}
+  - component: {fileID: 6057732719083932562}
+  m_Layer: 0
+  m_Name: LowPressureGVS
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6057732719083932563
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6057732719083932652}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 641.0165, y: 353.90576, z: -1.1147766}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6057732719083932562
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6057732719083932652}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05b2100195095ee4695a3f71c5139e09, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _name: "\u041D\u0438\u0437\u043A\u043E\u0435 \u0434\u0430\u0432\u043B\u0435\u043D\u0438\u0435
+    \u0441\u0438\u0441\u0442\u0435\u043C\u044B \u043E\u0442\u043E\u043F\u043B\u0435\u043D\u0438\u044F"
+  _tasks:
+  - "\u041F\u0440\u043E\u0432\u0435\u0440\u0438\u0442\u044C \u0443\u0440\u043E\u0432\u0435\u043D\u044C
+    \u0432\u043E\u0434\u044B \u0432 \u0431\u0430\u043A\u0435 \u0437\u0430\u043F\u0430\u0441\u0430
+    \u0432\u043E\u0434\u044B"
+  - "\u041F\u0440\u043E\u0432\u0435\u0440\u0438\u0442\u044C \u0440\u0430\u0431\u043E\u0442\u043E\u0441\u043F\u043E\u0441\u043E\u0431\u043D\u043E\u0441\u0442\u044C
+    \u043D\u0430\u0441\u043E\u0441\u0430 \u043F\u043E\u0434\u043F\u0438\u0442\u043A\u0438
+    1"
+  - "\u041F\u0440\u043E\u0432\u0435\u0440\u0438\u0442\u044C \u0440\u0430\u0431\u043E\u0442\u043E\u0441\u043F\u043E\u0441\u043E\u0431\u043D\u043E\u0441\u0442\u044C
+    \u043D\u0430\u0441\u043E\u0441\u0430 \u043F\u043E\u0434\u043F\u0438\u0442\u043A\u0438
+    2"
+  - "\u041F\u0440\u043E\u0432\u0435\u0440\u0438\u0442\u044C(\u043F\u0440\u0438 \u043D\u0435\u043E\u0431\u0445\u043E\u0434\u0438\u043C\u043E\u0441\u0442\u0438
+    \u043F\u0440\u043E\u043A\u0430\u0447\u0430\u0442\u044C) \u0440\u0430\u0441\u0448\u0438\u0440\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0439
+    \u0431\u0430\u043A"
+  - "\u041F\u0440\u043E\u0432\u0435\u0440\u0438\u0442\u044C \u043D\u0430 \u0443\u0442\u0435\u0447\u043A\u0443,
+    \u0441\u0438\u0441\u0442\u0435\u043C\u0443 \u043E\u0442\u043E\u043F\u043B\u0435\u043D\u0438\u044F"
+  - "\u041F\u0440\u043E\u0432\u0435\u0440\u0438\u0442\u044C \u043F\u043E\u043A\u0430\u0437\u0430\u043D\u0438\u044F
+    \u0434\u0430\u0442\u0447\u0438\u043A\u0430 \u0434\u0430\u0432\u043B\u0435\u043D\u0438\u044F"
+  _correctAnswers:
+  - "\u043F\u0440\u043E\u0432\u0435\u0440\u0438\u0442\u044C \u0443\u0440\u043E\u0432\u0435\u043D\u044C
+    \u0432\u043E\u0434\u044B"
+  - "\u043F\u0440\u043E\u0432\u0435\u0440\u0438\u0442\u044C \u0440\u0430\u0431\u043E\u0442\u043E
+    \u0441\u043F\u043E\u0441\u043E\u0431\u043D\u043E\u0441\u0442\u044C"
+  - "\u043F\u0440\u043E\u0432\u0435\u0440\u0438\u0442\u044C \u0440\u0430\u0431\u043E\u0442\u043E
+    \u0441\u043F\u043E\u0441\u043E\u0431\u043D\u043E\u0441\u0442\u044C"
+  - "\u043F\u0440\u043E\u0432\u0435\u0440\u0438\u0442\u044C \u0441\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435"
+  - "\u043F\u0440\u043E\u0432\u0435\u0440\u0438\u0442\u044C \u0433\u0435\u0440\u043C\u0435\u0442\u0438\u0447\u043D\u043E\u0441\u0442\u044C"
+  - "\u043F\u043E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u0434\u0430\u0432\u043B\u0435\u043D\u0438\u0435"
+  _sequencing:
+  - {fileID: 11400000, guid: 6085a8721ede87e41ab21a870dc199fd, type: 2}
+  - {fileID: 11400000, guid: 1ad77d771b049b44180fe1e44673bc51, type: 2}
+  - {fileID: 11400000, guid: 4390b370a4cafdf4199c66263c76d0c9, type: 2}
+  - {fileID: 11400000, guid: 65a1d2ee8f57e5444951b6a235020b9a, type: 2}
+  - {fileID: 11400000, guid: 87d4b184a2f278d47a79e9437ced467e, type: 2}
+  - {fileID: 11400000, guid: 88a144587e59c36458e5900dc9eec053, type: 2}

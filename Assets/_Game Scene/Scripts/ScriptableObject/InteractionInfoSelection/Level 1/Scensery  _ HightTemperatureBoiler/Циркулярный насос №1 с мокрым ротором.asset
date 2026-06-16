@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: debc2fb26aa2f1f40a0136950f28986d, type: 3}
+  m_Name: "\u0426\u0438\u0440\u043A\u0443\u043B\u044F\u0440\u043D\u044B\u0439 \u043D\u0430\u0441\u043E\u0441
+    \u21161 \u0441 \u043C\u043E\u043A\u0440\u044B\u043C \u0440\u043E\u0442\u043E\u0440\u043E\u043C"
+  m_EditorClassIdentifier: 
+  _nameButtons:
+  - "\u041E\u0442\u043A\u043B\u044E\u0447\u0438\u0442\u044C"
+  - "\u041F\u0440\u043E\u0432\u0435\u0440\u0438\u0442\u044C \u0440\u043E\u0431\u043E\u0442\u043E\u0441\u043E\u043F\u043E\u0441\u043E\u0431\u043D\u043E\u0441\u0442\u044C"
+  - "\u0412\u044B\u043A\u0440\u0443\u0442\u0438\u0442\u044C"
+  _correctButtonNumber: 1
+  _objectState:
+  - "\u041E\u0442\u043A\u043B\u044E\u0447\u0435\u043D\u043E"
+  - "\u0412\u0441\u0435 \u0432 \u043D\u043E\u0440\u043C\u0435"
+  - "\u0412\u044B\u043A\u0440\u0443\u0447\u0435\u043D"
+  _actionObject: 
+  _changestate: 
+  _objectNotInfluencing: 0
+  _filePath: "\u0441\u0435\u0442\u0435\u0432\u043E\u0439 \u0438 \u0446\u0438\u0440\u043A\u0443\u043B\u044F\u0446\u0438\u043E\u043D\u043D\u044B\u0439
+    \u043D\u0430\u0441\u043E\u0441"
